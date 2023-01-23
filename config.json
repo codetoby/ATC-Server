@@ -1,0 +1,10 @@
+{
+    "snipes": {
+        "atc_url": "https://www.snipes.com/add-product?format=ajax",
+        "redirect_url": "https://www.snipes.com/"
+    },
+    "solebox": {
+        "atc_url": "https://www.solebox.com/de_DE/add-product?format=ajax",
+        "redirect_url": "https://www.solebox.com/de_DE"
+    }
+}
