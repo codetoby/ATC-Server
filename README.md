@@ -4,7 +4,8 @@ The ATC (Add to Cart) server is an Express.js application designed to automate t
 
 ## API Reference
 
-### Adding items to Shopping Cart
+### Adding items to Shopping Cart (Currently Supported: Snipes, Solebox)
+You can add Onygo, Notebooksbilliger into config.json
 
 ```http
   GET /atc?site=${site}&pid=${pid}&size=${size}
