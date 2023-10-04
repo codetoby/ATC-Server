@@ -1,10 +1,12 @@
 {
     "snipes": {
         "atc_url": "https://www.snipes.com/add-product?format=ajax",
-        "redirect_url": "https://www.snipes.com/"
+        "redirect_url": "https://www.snipes.com/",
+        "icon_url": "https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/default/dw39bb6516/images/snipes_logo_white.svg"
     },
     "solebox": {
         "atc_url": "https://www.solebox.com/de_DE/add-product?format=ajax",
-        "redirect_url": "https://www.solebox.com/de_DE"
+        "redirect_url": "https://www.solebox.com/de_DE",
+        "icon_url": "https://www.solebox.com/on/demandware.static/Sites-solebox-Site/-/default/dw40870610/images/solebox_logo.svg"
     }
 }
