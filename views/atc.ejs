@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= site %> ATC</title>
+    <title>
+        <%= site %> ATC %>
+    </title>
 </head>
+
 <body>
     <form id="submit" method="POST" action="<%= atc_url %>">
         <input type="hidden" name="pid" value="<%= pid %>">
@@ -22,6 +26,7 @@
     sleep(300).then(() => {
         window.location = "<%= redirect_url %>";
     })
-    
+
 </script>
+
 </html>
